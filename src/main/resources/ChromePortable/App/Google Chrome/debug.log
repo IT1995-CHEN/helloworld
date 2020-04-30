@@ -1,0 +1,12 @@
+[0430/142830.445:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\ChenLei\AppData\Local\Temp\scoped_dir35640_1015972268\Crashpad: 系统找不到指定的路径。 (0x3)
+[0430/142830.460:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\ChenLei\AppData\Local\Temp\scoped_dir37064_128063180\Crashpad: 系统找不到指定的路径。 (0x3)
+[0430/142830.460:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 管道已结束。 (0x6D)
+[0430/142830.461:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\ChenLei\AppData\Local\Temp\scoped_dir35640_1015972268\Crashpad: 系统找不到指定的路径。 (0x3)
+[0430/142830.467:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 管道已结束。 (0x6D)
+[0430/142830.468:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\ChenLei\AppData\Local\Temp\scoped_dir37064_128063180\Crashpad: 系统找不到指定的路径。 (0x3)
+[0430/142830.808:ERROR:registration_protocol_win.cc(56)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0430/142830.831:ERROR:registration_protocol_win.cc(56)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0430/142842.292:ERROR:crashpad_client_win.cc(130)] crash server failed to launch, self-terminating
+[0430/142845.587:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0430/142845.587:ERROR:exception_snapshot_win.cc(88)] thread ID 18616 not found in process
+[0430/142845.587:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
